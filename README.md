@@ -4,7 +4,7 @@ title: zTree实现树形图模糊搜索
 category: programming
 ---
 ### 0. 项目地址:  
-[https://github.com/bigablecat/zTreeFuzzySearch](https://github.com/bigablecat/zTreeFuzzySearch)  
+[https://jiaweniv.github.io/zTreeFuzzySearch/](https://jiaweniv.github.io/zTreeFuzzySearch/)  
 
 ### 1. 在搜索框中输入关键字,希望实现的效果:  
 
